@@ -210,3 +210,4 @@ Additionally, there are a number of example apps built on digi.me in the example
 
 [Go to Documentation SDK](http://hamiltonalex.github.io/gh-pages/DigiMeSDK/documentation/digimesdk/)
 [Go to Documentation Core](http://hamiltonalex.github.io/gh-pages/DigiMeCore/documentation/digimecore/)
+[Go to Documentation Health](http://hamiltonalex.github.io/gh-pages/DigiMeHealthKit/documentation/digimehealthkit/)
