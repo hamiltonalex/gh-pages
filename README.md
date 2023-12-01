@@ -208,5 +208,4 @@ The topics discussed under [Quick Start](getting-started---5-simple-steps) are j
 
 Additionally, there are a number of example apps built on digi.me in the examples folder. Feel free to have a look at those to get an insight into the power of Private Sharing.
 
-
-[DOKI](https://hamiltonalex.github.io/gh-pages/DigiMeSDK/documentation/digimesdk/)
+[Go to Documentation](http://hamiltonalex.github.io/gh-pages/DigiMeSDK/documentation/digimesdk/)
